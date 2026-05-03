@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BHARAT-VAANI/static/css/main.e6c13ad2.css",
+    "main.js": "/BHARAT-VAANI/static/js/main.7002809a.js",
+    "static/js/453.7e976576.chunk.js": "/BHARAT-VAANI/static/js/453.7e976576.chunk.js",
+    "index.html": "/BHARAT-VAANI/index.html",
+    "main.e6c13ad2.css.map": "/BHARAT-VAANI/static/css/main.e6c13ad2.css.map",
+    "main.7002809a.js.map": "/BHARAT-VAANI/static/js/main.7002809a.js.map",
+    "453.7e976576.chunk.js.map": "/BHARAT-VAANI/static/js/453.7e976576.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7002809a.js"
+  ]
+}
